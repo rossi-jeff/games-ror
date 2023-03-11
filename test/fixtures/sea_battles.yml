@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Axis: 1
+  Status: 1
+  Score: 1
+  user: one
+
+two:
+  Axis: 1
+  Status: 1
+  Score: 1
+  user: two

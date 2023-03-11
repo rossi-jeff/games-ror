@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ShipType: 1
+  Navy: 1
+  Target: 1
+  Horizontal: MyString
+  Vertical: 1
+  sea_battle: one
+
+two:
+  ShipType: 1
+  Navy: 1
+  Target: 1
+  Horizontal: MyString
+  Vertical: 1
+  sea_battle: two

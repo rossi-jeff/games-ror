@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Status: 1
+  Moves: 1
+  Matched: 1
+  Elapsed: 
+  user: one
+
+two:
+  Status: 1
+  Moves: 1
+  Matched: 1
+  Elapsed: 
+  user: two

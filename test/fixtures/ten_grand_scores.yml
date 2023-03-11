@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Dice: MyString
+  Category: 1
+  Score: 1
+  ten_grand_turn: one
+
+two:
+  Dice: MyString
+  Category: 1
+  Score: 1
+  ten_grand_turn: two

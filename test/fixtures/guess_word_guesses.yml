@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Guess: MyString
+  guess_word: one
+
+two:
+  Guess: MyString
+  guess_word: two
